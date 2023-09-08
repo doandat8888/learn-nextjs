@@ -1,0 +1,26 @@
+.blog-detail {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.author {
+    color: #9F9DA0;
+    text-align: center;
+}
+
+.content {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.back-btn {
+    text-decoration: none;
+    color: #ffffff;
+}
